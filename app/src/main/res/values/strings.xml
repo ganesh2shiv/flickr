@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FlickrApp</string>
+
+    <string name="title_explore">Explore</string>
+    <string name="title_about">About</string>
+
+    <string name="activity_transition">transition</string>
+
+    <string name="processing_msg">Processing…</string>
+    <string name="btn_yes">Yes</string>
+    <string name="btn_no">No</string>
+
+    <string name="nav_drawer_open">Open</string>
+    <string name="nav_drawer_close">Close</string>
+
+    <string name="empty_list_msg">Whoops! We couldn\'t find any images!</string>
+    <string name="unknown_error_msg">Whoops! Some unknown error occurred!</string>
+    <string name="network_error_msg">It seems you have lost network connectivity.</string>
+    <string name="about_msg">FlickrApp is a sample android app, which was basically developed as part of an assignment, for developers to demonstrate MVP and clean architecture approach using Flickr APIs (https://www.flickr.com/services/api/)</string>
+</resources>
