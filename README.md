@@ -17,7 +17,7 @@ Screenshots
 -----------
 
 <img src="/art/01.jpg">
-<img src="/art/02.jpg" hspace="70">
+<img src="/art/02.jpg">
 
 Can I haz?
 ----------
