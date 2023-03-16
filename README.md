@@ -16,8 +16,9 @@ Features
 Screenshots
 -----------
 
-<img src="/art/01.jpg">
-<img src="/art/02.jpg">
+<p align="center">
+    <img style="width:35%" src="/art/01.jpg" hspace="50"><img style="width:35%" src="/art/02.jpg">
+</p>
 
 Can I haz?
 ----------
